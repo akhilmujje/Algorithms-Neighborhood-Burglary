@@ -1,0 +1,11 @@
+House A: House D
+
+House B: 
+
+House C: House F
+
+House D: House B, House E
+
+House E: House C, House B
+
+House F: House A, House B, House D

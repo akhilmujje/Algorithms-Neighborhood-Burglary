@@ -1,0 +1,6 @@
+1.4
+Saffron, 0.5, 5000
+Black Truffles, 3, 95
+Winter White Truffles, 1.6, 3000
+Vanilla Bean, 0.39, 4000
+Edible Gold, 0.05, 15000
